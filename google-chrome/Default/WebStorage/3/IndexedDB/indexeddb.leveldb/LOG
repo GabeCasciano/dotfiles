@@ -1,0 +1,6 @@
+2025/07/03-19:03:27.601 a6f7 Creating DB /home/gabe/.config/google-chrome/Default/WebStorage/3/IndexedDB/indexeddb.leveldb since it was missing.
+2025/07/03-19:03:27.614 a6f7 Reusing MANIFEST /home/gabe/.config/google-chrome/Default/WebStorage/3/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/07/03-19:03:29.841 a6f8 Level-0 table #5: started
+2025/07/03-19:03:29.844 a6f8 Level-0 table #5: 21996 bytes OK
+2025/07/03-19:03:29.846 a6f8 Delete type=0 #3
+2025/07/03-19:03:29.846 a6f8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

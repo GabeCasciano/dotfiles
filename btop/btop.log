@@ -1,0 +1,77 @@
+
+2025/06/01 (22:43:10) | ===> btop++ v.1.4.0
+2025/06/01 (22:43:10) | WARNING: Intel GPU: Failed to initialize PMU
+2025/06/01 (22:44:04) | WARNING: Failed to join _runner thread on exit!
+
+2025/06/02 (00:36:02) | ===> btop++ v.1.4.0
+2025/06/02 (00:36:02) | WARNING: Intel GPU: Failed to initialize PMU
+2025/06/02 (00:36:29) | WARNING: Failed to join _runner thread on exit!
+
+2025/06/02 (13:12:27) | ===> btop++ v.1.4.0
+2025/06/02 (13:12:27) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/02 (15:57:20) | ===> btop++ v.1.4.0
+2025/06/02 (15:57:20) | WARNING: Intel GPU: Failed to initialize PMU
+2025/06/02 (15:59:42) | WARNING: Failed to join _runner thread on exit!
+
+2025/06/02 (16:38:35) | ===> btop++ v.1.4.0
+2025/06/02 (16:38:35) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/02 (17:33:23) | ===> btop++ v.1.4.0
+2025/06/02 (17:33:23) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/02 (18:24:34) | ===> btop++ v.1.4.0
+2025/06/02 (18:24:34) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/02 (18:25:10) | ===> btop++ v.1.4.0
+2025/06/02 (18:25:10) | WARNING: Intel GPU: Failed to initialize PMU
+2025/06/02 (18:25:18) | WARNING: Failed to join _runner thread on exit!
+2025/06/02 (18:25:18) | ERROR: Exception during Config::unlock() : unordered_map::at
+
+2025/06/02 (18:25:22) | ===> btop++ v.1.4.0
+2025/06/02 (18:25:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/02 (18:26:30) | ===> btop++ v.1.4.0
+2025/06/02 (18:26:30) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/02 (18:26:33) | ===> btop++ v.1.4.0
+2025/06/02 (18:26:33) | WARNING: Intel GPU: Failed to initialize PMU
+2025/06/02 (18:26:34) | WARNING: Failed to join _runner thread on exit!
+2025/06/03 (00:02:57) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/06/03 (00:02:57) | ERROR: Couldn't determine terminal size of "/dev/tty"!
+
+2025/06/03 (09:33:51) | ===> btop++ v.1.4.0
+2025/06/03 (09:33:51) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/10 (01:35:38) | ===> btop++ v.1.4.0
+2025/06/10 (01:35:38) | WARNING: Intel GPU: Failed to initialize PMU
+2025/06/10 (01:36:28) | WARNING: Failed to join _runner thread on exit!
+
+2025/06/11 (00:11:27) | ===> btop++ v.1.4.0
+2025/06/11 (00:11:27) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/11 (23:44:52) | ===> btop++ v.1.4.0
+2025/06/11 (23:44:52) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/12 (10:51:22) | ===> btop++ v.1.4.0
+2025/06/12 (10:51:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/12 (10:58:19) | ===> btop++ v.1.4.0
+2025/06/12 (10:58:19) | WARNING: Intel GPU: Failed to initialize PMU
+2025/06/12 (10:58:29) | WARNING: Failed to join _runner thread on exit!
+
+2025/06/15 (14:17:59) | ===> btop++ v.1.4.0
+2025/06/15 (14:17:59) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/15 (14:40:22) | ===> btop++ v.1.4.0
+2025/06/15 (14:40:22) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/15 (16:22:06) | ===> btop++ v.1.4.0
+2025/06/15 (16:22:06) | WARNING: Intel GPU: Failed to initialize PMU
+
+2025/06/15 (16:45:13) | ===> btop++ v.1.4.0
+2025/06/15 (16:45:13) | WARNING: Intel GPU: Failed to initialize PMU
+2025/06/15 (16:45:18) | WARNING: Failed to join _runner thread on exit!
+
+2025/06/22 (20:50:54) | ===> btop++ v.1.4.0
+2025/06/22 (20:50:54) | WARNING: Intel GPU: Failed to initialize PMU
